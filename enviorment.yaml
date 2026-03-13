@@ -1,0 +1,33 @@
+name: magisterka
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - jupyter
+  - ipython
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.8
+  - tensorflow-gpu
+  - scikit-learn
+  - sympy
+  - pip
+  - pip:
+    - neuraloperator
+    - fourier-neural-operator
+    - deeponet
+    - pdearena
+    - pyvista
+    - plotly
+    - jax
+    - jaxlib
+    - meshio
+    - pygmsh
