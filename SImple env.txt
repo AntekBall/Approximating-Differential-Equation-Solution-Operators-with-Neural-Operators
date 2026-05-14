@@ -1,5 +1,6 @@
 conda create -n neural_op_cpu python=3.10 pip ipykernel -y
 conda activate neural_op_cpu
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
-pip install neuraloperator numpy scipy matplotlib
+pip install neuraloperator numpy scipy matplotlib pandas
 python -m ipykernel install --user --name neural_op_cpu --display-name "Python (Neural Ops CPU)"
+conda install notebook -y
