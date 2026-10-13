@@ -1,1 +1,1 @@
-### Testy kodów na magisterke
+### Praca Magiserska
