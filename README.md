@@ -1,5 +1,7 @@
 # Approximating Differential Equation Solution Operators with Neural Operators
 
+📄 **Full Thesis PDF:** [Read / Download the Master's Thesis](https://github.com/AntekBall/Approximating-Differential-Equation-Solution-Operators-with-Neural-Operators/blob/main/SM-MGR-ADA-2025_140447-140381_110204.1.pdf)
+
 Master thesis at SGH exploring **Neural Operators** (such as Fourier Neural Operators and DeepONets) to learn mapping between infinite-dimensional function spaces. This repository focuses on approximating solution operators for both Ordinary Differential Equations (ODEs) and Partial Differential Equations (PDEs).
 
 ## 📌 Overview
